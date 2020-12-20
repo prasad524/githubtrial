@@ -10,6 +10,8 @@ public class Avgofarray {
 		double avg=0;
 		for(int i=0; i<=a.length-1; i++)
 		{
+			System.out.println(avg);
+			System.out.println(avg);
 			sum= sum+a[i];
 			avg= sum/2;
 		}
